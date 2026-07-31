@@ -67,11 +67,11 @@ I am a passionate Computer Science & Engineering student at Exim Bank Agricultur
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/swe-sanjida-aktar/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mst.sanjida.aktar.cnj.bd@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
