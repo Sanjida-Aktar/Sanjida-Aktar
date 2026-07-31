@@ -18,8 +18,7 @@ Web Developer | CSE Student | Future Software Engineer from Bangladesh 🇧🇩
 
 I am a passionate Computer Science & Engineering student at Exim Bank Agricultural University Bangladesh. I enjoy building modern, responsive, and user-friendly web applications.
 
-- 🔭 Currently working on **Smart Attendance System**
-- 🌱 Exploring **Next.js, TypeScript & React Native**
+
 - 💻 Focused on **Frontend & Full Stack Web Development**
 - 📚 Learning **DSA, DBMS, and Operating Systems**
 - 🎯 Goal: Become a skilled Software Engineer
@@ -51,11 +50,11 @@ I am a passionate Computer Science & Engineering student at Exim Bank Agricultur
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase"/>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify"/>
 
 </div>
 
@@ -92,61 +91,6 @@ I am a passionate Computer Science & Engineering student at Exim Bank Agricultur
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sanjida-Aktar&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjida-Aktar&theme=tokyo-night"/>
-</p>
-
----
-
-### 📱 Smart Attendance System
-
-> A modern attendance tracking application.
-
-- **Tech Stack:** React Native, Firebase
-- **Features:** Attendance Tracking, Authentication, Dashboard
-
----
-
-### 🏨 Hotel Management System
-
-> A C++ OOP-based project for managing hotel operations.
-
-- **Tech Stack:** C++, OOP
-- **Features:** Room Booking, Customer Management, Admin Panel
-
----
-
-## 🐍 Contribution Snake
-
-> Enable GitHub Actions to make this work.
-
-```html
-<img src="https://raw.githubusercontent.com/Sanjida-Aktar/Sanjida-Aktar/output/github-contribution-grid-snake.svg"/>
-```
-
----
-
-## 💻 Pinned Repositories
-
-| Repository | Technology |
-|------------|------------|
-| ModelHub AI | React + Tailwind CSS |
-| Smart Attendance System | React Native + Firebase |
-| Hotel Management System | C++ + OOP |
-
----
-
 ## 📚 Currently Learning
 
 ```txt
