@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Sanjida Aktar Banner"/>
+  <img src="./hero.png" width="100%" alt="Sanjida Aktar Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sanjida Aktar</h1>
@@ -106,17 +106,6 @@ I am a passionate Computer Science & Engineering student at Exim Bank Agricultur
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjida-Aktar&theme=tokyo-night"/>
 </p>
-
----
-
-## 📌 Featured Projects
-
-### 🚀 ModelHub AI
-
-> An AI tools discovery platform built with React and Tailwind CSS.
-
-- **Tech Stack:** React, Tailwind CSS, JavaScript
-- **Live:** https://modelhub-ai.netlify.app
 
 ---
 
