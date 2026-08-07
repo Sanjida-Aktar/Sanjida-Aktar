@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero.png" width="100%" alt="Sanjida Aktar Banner"/>
+  <img src="./coverphoto.jpg" width="100%" alt="Sanjida Aktar Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sanjida Aktar</h1>
